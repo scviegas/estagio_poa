@@ -1,3 +1,3 @@
 # estagio_poa
-Modelos da disciplina de estagio
-Aqui você encon models
+Entrega em 15 dias  Proposta, Ficha da empresa e  primeiro relatório 
+semanal
